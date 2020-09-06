@@ -4,6 +4,7 @@ A python script that sends a message to discord every time your server crashes.
 ![Example](https://cdn.discordapp.com/attachments/752173828616224839/752219236981538857/crashbot.PNG)
 <h4>System requirements</h4>
 
+- **The script should run on the same computer or your dead matter server is running**
 - [**Python** v3.8.5+](https://www.python.org/downloads/)
 ## Installation
 1. Clone (`https://github.com/kfmgang/Dead-Matter-Server-Discord-Crash-Alert.git`) or [download](https://github.com/kfmgang/Dead-Matter-Server-Discord-Crash-Alert/archive/master.zip) this repository.
