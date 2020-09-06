@@ -1,0 +1,2 @@
+discord-webhook==0.9.0
+psutil==5.7.2
